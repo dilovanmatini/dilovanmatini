@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dilovanmatini
 - 👀 I’m interested in PHP, MySQL, HTML, JavaScript, CSS, and so many other Web Technologies.
-- 🌱 I’m currently learning VueJS and NuxtJS
 - 📫 How to reach me dilovan@lelav.com
 
 <!---
